@@ -20,21 +20,21 @@
 
 ----
 
-> 最後編譯後的檔案都在assets裡面 ，如果使用的話，要用這裡面的檔案
+> 最後編譯後的檔案都在assets裡面 ，如果使用的話，要用這裡面的檔案  
 > mini的資料夾裡都是壓縮過後的檔案
 
 
---- assets -- js  編譯後的js檔案
-     |    |
-     |    |-- css 編譯後的css檔案
-     |    |-- font 字體 .woff檔案 .eot檔案
-     |    |-- images 圖片檔
-     |    |
-     |-- js -- 編寫js，編譯時會檢查js有沒有錯誤
-     |
-     |-- libs -- bower i  抓回來的套件
-     |
-     |-- sass -- 編寫sass
+--- assets -- js  編譯後的js檔案  
+     |    |  
+     |    |-- css 編譯後的css檔案  
+     |    |-- font 字體 .woff檔案 .eot檔案  
+     |    |-- images 圖片檔  
+     |    |  
+     |-- js -- 編寫js，編譯時會檢查js有沒有錯誤  
+     |  
+     |-- libs -- bower i  抓回來的套件  
+     |  
+     |-- sass -- 編寫sass  
 
 >基本上自動化的套件的package.json裡面
 >開發上的套件都在bower.json上面
