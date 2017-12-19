@@ -1,5 +1,4 @@
 # 使用方式
-----
 
 ### 環境建置  
 1. 環境必須要有node.js / ruby / sass  / gulp / bower / git  
@@ -22,24 +21,25 @@
 
 > 最後編譯後的檔案都在assets裡面 ，如果使用的話，要用這裡面的檔案  
 > mini的資料夾裡都是壓縮過後的檔案
-|
-|– assets/
-|   |– js           # 編譯後的js檔案     
-|   |– css          # 編譯後的css檔案 
-|   |– images       # 圖片檔      
-|   |– font         # 字體.woff檔案 .eot檔案
-|   ...             # Etc…
-|
-|– js /
-|   |– scripts.js   # js編寫檔案
-|  ...              # Etc…
-| 
-|– libs /
-|   |– bootstrap    # Bootstrap 套件
-|   ...             # Etc…
-|
-|– sass /
-|   |– main.scss  #sass 編寫檔案
+
+----
+|– assets/  
+|   |– js           # 編譯後的js檔案       
+|   |– css          # 編譯後的css檔案   
+|   |– images       # 圖片檔        
+|   |– font         # 字體.woff檔案 .eot檔案  
+|   ...             # Etc…  
+|  
+|– js /  
+|   |– scripts.js   # js編寫檔案  
+|  ...              # Etc…  
+|   
+|– libs /  
+|   |– bootstrap    # Bootstrap 套件  
+|   ...             # Etc…  
+|  
+|– sass /  
+|   |– main.scss  #sass 編寫檔案  
 |   ...           # Etc…
 
 
