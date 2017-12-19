@@ -1,0 +1,32 @@
+{
+  "name": "bd103",
+  "version": "1.0.0",
+  "description": "bd103 教學",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sexfat/bd103.git"
+  },
+  "author": "bryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sexfat/bd103/issues"
+  },
+  "homepage": "https://github.com/sexfat/bd103#readme",
+  "devDependencies": {
+    "bower": "^1.8.2",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-notify": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.5"
+  }
+}
